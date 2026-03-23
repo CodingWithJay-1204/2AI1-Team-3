@@ -5,15 +5,25 @@ Project Title: Insurance Cost Prediction- Predicting Medical Insurance Charges U
 Team Member Details:
 
 Team Leader: Jay Mavji Maheshwari (integration-documentation)
+
 Member 1: Rushikesh (Branch: data-loading-exploration)
+
 Member 2: Malay Soni (Branch: preprocessing-cleaning)
+
 Member 3: KS Kanan (Branch: train-test-split-linear)
+
 Member 4: Jacinth Kovvuri (Branch: evaluation-metrics)
+
 Member 5: Hemank Pathak (Branch: simple-improvements)
+
 Problem Statement:
 
-The objective of this project is to build a basic machine learning pipeline that predicts individual medical insurance costs based on demographic and lifestyle factors.​
+
+The objective of this project is to build a basic machine learning pipeline that predicts individual medical insurance costs based on demographic and lifestyle 
+factors.
+​
 We aim to demonstrate the complete workflow of a supervised learning regression task, including data loading, preprocessing, model training, evaluation, and simple model improvements.​
+
 Additionally, we practice collaborative development using Git and GitHub, following a branch-based workflow and code review via pull requests.
 ​Dataset Description:
 
