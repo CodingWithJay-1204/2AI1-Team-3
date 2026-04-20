@@ -6,7 +6,7 @@ Team Member Details:
 
 Team Leader: Jay Mavji Maheshwari (integration-documentation)
 
-Member 1: Rushikesh (Branch: data-loading-exploration)
+Member 1: Hemank (Branch: data-loading-exploration)
 
 Member 2: Malay Soni (Branch: preprocessing-cleaning)
 
@@ -14,7 +14,7 @@ Member 3: KS Kanan (Branch: train-test-split-linear)
 
 Member 4: Jacinth Kovvuri (Branch: evaluation-metrics)
 
-Member 5: Hemank Pathak (Branch: simple-improvements)
+Member 5: rushikesh (Branch: simple-improvements)
 
 Problem Statement:
 
